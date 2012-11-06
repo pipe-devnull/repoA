@@ -1,0 +1,3 @@
+[submodule "myLib/3rdPartySubmoduleExample"]
+	path = myLib/3rdPartySubmoduleExample
+	url = git@github.com:ade-pipe-devnull/repoB.git
